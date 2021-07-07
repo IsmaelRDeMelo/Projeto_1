@@ -37,7 +37,6 @@ export default class Pokemon{
     }
 
     falar(){};
-
     
     toString(){
         

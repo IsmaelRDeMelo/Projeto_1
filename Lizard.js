@@ -1,4 +1,4 @@
-import Pokemon from "../Pokemon.js";
+import Pokemon from "./Pokemon.js";
 
 export default class Lizard extends Pokemon{
     constructor(id, ataque, defesa, categoria){
